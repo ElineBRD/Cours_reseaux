@@ -19,7 +19,7 @@
 
 Les **bits réseau** (en gras) sont bloqués par le masque de sous-réseau tandis que les **bits machines** sont manipulables.
 
-## Réseau 1 :
+## Réseau 1
 
 En découpant le réseau en deux comme vu ci-dessus, le **réseau 1** compose ses bits de la sorte :
 
@@ -28,6 +28,9 @@ En découpant le réseau en deux comme vu ci-dessus, le **réseau 1** compose se
 - **1100 0000 . 1010 1000 . 0**111 1111 . 1111 1110 : Dernière adresse utilisable
 - **1100 0000 . 1010 1000 . 0**111 1111 . 1111 1111 : Adresse broadcast
 ---
+
+## Réseau 2 :
+
 Le **réseau 2** se compose donc :
 
 - **1100 0000 . 1010 1000 . 1**000 0000 . 0000 0000 : Adresse réseau
